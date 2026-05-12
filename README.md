@@ -30,7 +30,7 @@ Notice that the tactile switch has 1 leg, there's also version with 2 legs, this
 |[Housing (switch)](stl/encoder_switch.stl)|Housing for the encoder with tactile switch|
 |[Housing (no switch)](stl/encoder_no_switch.stl)|Housing for the encoder without switch|
 |[Roller](stl/roller.stl)|Roller wheel|
-|[Roller with insert](str/roller_wire_core.stl)|Roller with 1.8 insert (metal wire/3D Filament)
+|[Roller with insert](stl/roller_wire_core.stl)|Roller with 1.8 insert (metal wire/3D Filament)
 
 **Print with PETG with 0.4mm nozzle. For the roller use support.**
 
