@@ -31,6 +31,7 @@ Notice that the tactile switch has 1 leg, there's also version with 2 legs, this
 |[Housing (no switch)](stl/encoder_no_switch.stl)|Housing for the encoder without switch|
 |[Roller](stl/roller.stl)|Roller wheel|
 |[Roller with insert](stl/roller_wire_core.stl)|Roller with 1.8 insert (metal wire/3D Filament)
+|[Socket adapter EVQWGD001](stl/adapter_evqwgd001.stl)|Socket/mount for PCBs with EVQWGD001 footprint|
 
 **Print with PETG with 0.4mm nozzle. For the roller use support.**
 
@@ -44,6 +45,7 @@ Notice that the tactile switch has 1 leg, there's also version with 2 legs, this
 |[MEH01](step/MEH01.stp)|Full assembly|
 |[Socket PCB](step/socket_pcb.stp)|Socket/mount for PCB|
 |[Socket](step/socket.stp)|Socket/mount for keyboard plate|
+|[Socket adapter EVQWGD001](step/adapter_evqwgd001.stp)|Socket/mount for PCBs with EVQWGD001 footprint|
 
 
 Use these files to incorporate MEH01 into your CAD project.
