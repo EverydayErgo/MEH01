@@ -3,6 +3,8 @@
 
 Two versions are provided. With and without switch.
 
+**If you're coming from a PCB that already has a EVQWGD001 footprint and would like to try this encoder there's a special adapter for that, [Socket adapter EVQWGD001](stl/adapter_evqwgd001.stl). As I don't have any keyboard with such footprint at hand I would like to ask you to test it out and provide feedback.**
+
 ## **KiCAD** symbol, footprint and 3D model is also available (untested), check my [KiCad Library](https://github.com/EverydayErgo/KiCAD)
 
 
